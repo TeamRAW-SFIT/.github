@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔵🔴 TEAM RAW  
+# TEAM RAW  
 ## Robotics & Automation Wing – SFIT  
 ### **Innovation Through Robotics and Automation**
 
