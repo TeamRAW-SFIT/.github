@@ -1,234 +1,413 @@
+
 <div align="center">
 
-# TEAM RAW  
-## Robotics & Automation Wing – SFIT  
-### **Innovation Through Robotics and Automation**
+# 🤖 TEAM RAW
+## Robotics & Automation Wing
+### St. Francis Institute of Technology, Mumbai
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Engineering+Robots+for+Tomorrow;Robocon+2025+Basketball+Robots;Advanced+Image+Processing+Robots;Innovation+Through+Robotics" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=E10600&center=true&vCenter=true&width=800&lines=Innovating+Through+Robotics;DD+Robocon+2025+Top+15;Building+Tomorrow's+Technology;Where+Engineering+Meets+Innovation" alt="Typing SVG" />
 
-### Official Links  
-[![Website](https://img.shields.io/badge/Website-Visit-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://teamraw-sfit.github.io)  
-[![Instagram](https://img.shields.io/badge/Instagram-teamraw.sfit-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/teamraw.sfit)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Team_RAW-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/teamraw-sfit)  
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@teamrawsfit)  
+---
+
+### 🌐 Connect With Us
+
+[![Website](https://img.shields.io/badge/🌐_Website-Team_RAW-0ea5e9?style=for-the-badge)](https://rawwebsite-seven.vercel.app)
+[![Instagram](https://img.shields.io/badge/📷_Instagram-teamraw__sfit-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/teamraw_sfit)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Team_RAW_SFIT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/team-raw-sfit)
+[![YouTube](https://img.shields.io/badge/▶️_YouTube-@teamrawsfit2026-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@teamrawsfit2026)
+
+📧 **teamraw@sfit.ac.in** | 📍 **Room 027, SFIT, Borivali West, Mumbai**
 
 </div>
 
 ---
 
-## 🚀 About Team RAW
+## 🎯 About Team RAW
 
-**Team RAW** is the official **Robotics & Automation Wing** of **Symbiosis Institute of Technology (SFIT)**, Pune.
+**Team RAW (Robotics & Automation Wing)** is the premier student robotics team at **St. Francis Institute of Technology (SFIT), Mumbai**. We are a passionate group of engineers dedicated to pushing the boundaries of robotics, automation, and artificial intelligence.
 
-We specialize in:
-- 🤖 **Competitive Robotics** (Robocon)
-- 🔧 **Embedded Systems & Automation**
-- 👁️ **Computer Vision & AI/ML**
-- 🏗️ **Mechanical Design & Manufacturing**
+### 🏆 Our Mission
+> *"Innovation Through Robotics and Automation"*
 
-### Our Mission
-> **"Innovation Through Robotics and Automation"**
+We strive to:
+- Design and build competitive robots for national competitions
+- Foster innovation in robotics and automation technology
+- Develop talent in mechanical, electrical, and software engineering
+- Create impactful STEM education initiatives
 
-We design, build, and compete with next-generation robots in Asia's biggest robotics competitions, pushing the boundaries of engineering excellence.
+### 🌟 Why Team RAW?
 
----
-
-## 📊 By The Numbers
-
-- **26 Members** across all departments
-- **1 Convener** leading the team
-- **4 Experienced Mentors** guiding innovation
-- **1 Faculty Advisor** overseeing excellence
-- **Multiple Robocon Participations** with awards
+- **🥇 Top 15** in DD Robocon 2025 (National Level)
+- **200+** Active members and alumni network
+- **50K+** Annual brand impressions across competitions
+- **15+** National competitions participated
+- **500+** Students mentored through workshops
 
 ---
 
-## 🛠️ Our Departments
+## 📊 Our Achievements
 
-We operate as a multidisciplinary team across four specialized divisions:
+### 🏅 DD Robocon 2026
+- ✅ **Pre-Registration Completed** - Ready for national competition
 
-| Department | Focus | Technologies |
-|-----------|-------|--------------|
-| **🔧 Mechanical** | Design & Manufacturing | SolidWorks, Fusion 360, 3D Printing, CAM |
-| **⚡ Electronics** | Hardware & Control Systems | Arduino, ESP32, STM32, PCB Design, Motor Drivers |
-| **👁️ AIML** | Computer Vision & Intelligence | Python, OpenCV, TensorFlow, YOLO, PyTorch |
-| **💻 Coding** | Embedded & Control Software | C/C++, Python, Embedded Linux, ROS |
+### 🏅 DD Robocon 2025
+- 🥇 **Stage 3: Top 15 Nationwide** - Secured top position among best teams
+- ⭐ **Stage 2: 90/100 Marks** - Outstanding performance in May 2025
+- ⭐ **Stage 1: 95/100 Marks** - Exceptional qualification in February 2025
 
----
-
-## 🤖 Featured Projects
-
-### 🏀 **Robocon 2025 – Basketball Robot**
-A precision-engineered robotic system capable of:
-- ✅ Autonomous navigation
-- ✅ Ball detection & shooting
-- ✅ Real-time control
-- ✅ Competition-grade reliability
-
-**Status:** In Development | **Team Size:** 26 members
-
-### 📸 **Robocon 2026 – Image Processing Robot**
-An AI-driven autonomous robot featuring:
-- ✅ Advanced object detection (YOLOv8)
-- ✅ Real-time tracking systems
-- ✅ Intelligent decision-making
-- ✅ Autonomous task execution
-
-**Status:** In Research Phase | **Tech:** Python, OpenCV, YOLO
+### 🎓 Other Competitions
+- **e-Yantra Robotics Competition 2026** (IIT Bombay)
+  - Task 1A: 47/50 marks
+  - Task 1B: 48/50 marks
+- **e-Yantra Robotics Competition 2025** - Participated
+- **IIT Techfest 2025** - Participated
 
 ---
 
-## 💾 Repository Overview
+## 👥 Team Structure
 
-This GitHub organization hosts:
+### Leadership Team
 
-| Repository | Purpose | Status |
-|-----------|---------|--------|
-| **ImageDetection** | YOLOv8-based fake box detection system | ✅ Active |
-| **RawWebsite** | Team portfolio & documentation website | ✅ Active |
-| **Code-Templates** | Standardized coding templates for projects | 📋 Reference |
-| **Robocon-2025** | Basketball robot codebase & docs | 🔄 In Development |
+| Role | Name | Contact |
+|------|------|---------|
+| **Convener** | Ramjee Yadav | ramjee.yadav@sfit.ac.in |
+| **Captain** | Taksh Gandhi | taksh.gandhi@student.sfit.ac.in |
+| **Vice Captain** | Adnan Shaikh | adnan.shaikh@student.sfit.ac.in |
+
+### Core Team (Executive Members)
+
+| Member | Role | LinkedIn | Email |
+|--------|------|----------|-------|
+| **Dittino Sequeira** | Mechanical Lead | [Profile](https://linkedin.com/in/dittino-sequeira) | dittino.sequeira@student.sfit.ac.in |
+| **Siddhant Khapekar** | Electronics Lead | [Profile](https://linkedin.com/in/siddhant-khapekar) | siddhant.khapekar@student.sfit.ac.in |
+| **Ronit Tiwari** | Software Lead | [Profile](https://linkedin.com/in/ronit-tiwari) | ronit.tiwari@student.sfit.ac.in |
+| **Amisha Kalwani** | AI/ML Lead | [Profile](https://linkedin.com/in/amisha-kalwani) | amisha.kalwani@student.sfit.ac.in |
+| **Nandini Shinde** | Design Lead | [Profile](https://linkedin.com/in/nandini-shinde) | nandini.shinde@student.sfit.ac.in |
+
+**Total Active Members:** 30+ across all departments
+
+---
+
+## 🛠️ Technical Departments
+
+### ⚙️ Mechanical Engineering
+**Focus Areas:**
+- Robot chassis design and fabrication
+- 3D CAD modeling (SolidWorks, Fusion 360)
+- Mechanism design and optimization
+- Material selection and manufacturing
+
+**Key Projects:**
+- Basketball shooting mechanisms
+- Omnidirectional drive systems
+- Gripper and actuator designs
+
+---
+
+### ⚡ Electronics & Embedded Systems
+**Focus Areas:**
+- Microcontroller programming (Arduino, ESP32)
+- Motor control and driver circuits
+- Sensor integration and calibration
+- Power management systems
+
+**Technologies:**
+- STM32, Arduino Mega
+- L298N, BTS7960 Motor Drivers
+- IMU, Encoders, Proximity Sensors
+- Li-Po/Li-ion Battery Management
+
+---
+
+### 💻 Software & Control
+**Focus Areas:**
+- Embedded C/C++ for microcontrollers
+- Robot control algorithms (PID, Path Planning)
+- Communication protocols (UART, I2C, SPI)
+- Autonomous navigation systems
+
+**Tech Stack:**
+- C/C++, Python
+- Robot Operating System (ROS) exploration
+- MATLAB/Simulink for simulations
+- Git version control
+
+---
+
+### 🤖 AI/ML & Computer Vision
+**Focus Areas:**
+- Object detection and recognition
+- OpenCV image processing
+- YOLO model implementation
+- Real-time camera-based navigation
+
+**Current Projects:**
+- Ball detection for autonomous robots
+- Arena mapping and obstacle avoidance
+- Color-based object tracking
+- Line following algorithms
+
+---
+
+## 🤖 Major Projects
+
+### 🏀 DD Robocon Basketball Robots (2024-25)
+
+**Challenge:** Design robots to throw basketballs into hoops autonomously
+
+**Our Solution:**
+- **Manual Robot (MR):** Operator-controlled shooting mechanism
+- **Automatic Robot (AR):** Autonomous navigation and ball detection
+- **Innovation:** Precision shooting turret with camera-guided aiming
+
+**Technologies Used:**
+- 4-wheel omnidirectional drive
+- Pneumatic ball launcher
+- Real-time object detection
+- Wireless communication (RF modules)
+
+**Results:** Top 15 finish nationwide ✅
+
+---
+
+### 📷 Computer Vision Systems
+
+**Objective:** Develop vision-based automation for robots
+
+**Components:**
+- Raspberry Pi + Camera Module
+- OpenCV Python pipeline
+- YOLO v5/v8 object detection
+- Real-time inference optimization
+
+**Applications:**
+- Ball detection and tracking
+- Color segmentation for navigation
+- QR code scanning for task identification
+
+---
+
+### 🔧 Automation Workshop Projects
+- Line follower robots (entry-level training)
+- Obstacle avoidance robots
+- Gesture-controlled vehicles
+- IoT-based home automation
+
+---
+
+## 💻 GitHub Repositories
+
+| Repository | Description | Language | Status |
+|-----------|-------------|----------|--------|
+| **[RawWebsite](https://github.com/TeamRAW-SFIT/RawWebsite)** | Official team website (Next.js) | TypeScript | 🟢 Active |
+| **[DD-Robocon-2025](https://github.com/TeamRAW-SFIT/Robocon)** | Competition robot code | C++, Python | 🟢 Active |
+| **[ImageDetection](https://github.com/TeamRAW-SFIT/ImageDetection)** | YOLO/OpenCV experiments | Python | 🟡 Experimental |
+| **[Arduino-Templates](https://github.com/TeamRAW-SFIT/Code-Templates)** | Standard code libraries | C/C++ | 📚 Reference |
+| **[Workshop-Materials](https://github.com/TeamRAW-SFIT/Workshops)** | Training & tutorials | Mixed | 📖 Educational |
 
 ---
 
 ## 🔧 Technology Stack
 
-### **Hardware & Electronics**
-```
-Microcontrollers:  Arduino | ESP32 | STM32 | Raspberry Pi
-Sensors:           Encoders | IMU | LiDAR | Ultrasonic | Camera
-Motor Systems:     DC Motors | Servo Motors | Motor Drivers
-Power:             Battery Management | PCB Design | 5V/12V Systems
-```
+### Hardware
 
-### **Software & AI/ML**
-```
-Languages:         Python | C/C++ | Assembly
-Frameworks:        TensorFlow | PyTorch | OpenCV
-Models:            YOLO | CNN | Object Detection
-Robotics:          ROS | Embedded Linux
-```
+├── Microcontrollers
+│   ├── Arduino Mega 2560
+│   ├── ESP32 Dev Kit
+│   ├── STM32 (advanced projects)
+│   └── Raspberry Pi 4
+│
+├── Actuators
+│   ├── DC Geared Motors (12V, 24V)
+│   ├── Servo Motors (MG996R, SG90)
+│   ├── Stepper Motors (NEMA 17)
+│   └── Pneumatic Cylinders
+│
+├── Sensors
+│   ├── Ultrasonic (HC-SR04)
+│   ├── IR Proximity
+│   ├── Encoders (Optical, Magnetic)
+│   ├── IMU (MPU6050, BNO055)
+│   └── Camera Modules
+│
+└── Power Systems
+    ├── Li-Po Batteries (11.1V, 14.8V)
+    ├── Buck/Boost Converters
+    └── Current Monitoring Circuits
 
-### **Mechanical Design**
-```
-CAD:               SolidWorks | Fusion 360 | FreeCAD
-Manufacturing:     3D Printing | CNC Machining | Laser Cutting
-Simulation:        FEA | Motion Analysis | Stress Testing
-```
 
----
+### Software
 
-## 🏆 Competition History
+├── Embedded Programming
+│   ├── Arduino IDE
+│   ├── PlatformIO
+│   └── STM32CubeIDE
+│
+├── Computer Vision
+│   ├── Python 3.10+
+│   ├── OpenCV 4.x
+│   ├── YOLOv5/v8
+│   └── TensorFlow Lite
+│
+├── CAD & Design
+│   ├── SolidWorks
+│   ├── Fusion 360
+│   ├── AutoCAD
+│   └── Blender (visualizations)
+│
+└── Web Development
+    ├── Next.js 15
+    ├── TypeScript
+    ├── Tailwind CSS
+    └── Framer Motion
 
-- **Robocon 2024** - Basketball Robot Challenge
-- **Robocon 2025** - Current Competition
-- **Robocon 2026** - Image Processing Challenge (Upcoming)
-
----
-
-## 🎯 Open for Collaboration
-
-We welcome partnerships with:
-- 🏢 **Industry Partners** - Equipment & technical support
-- 🎓 **Academic Institutions** - Joint research & development
-- 🤝 **Sponsors** - Competition & innovation funding
-- 👨‍💻 **Developers** - Open-source contributions
-
-**Interested?** Contact us:
-📧 **teamrawofficial@gmail.com**
-
----
-
-## 🌟 Key Repositories
-
-### 🔴 **Active Projects**
-
-1. **[ImageDetection](https://github.com/TeamRAW-SFIT/ImageDetection)**
-   - YOLOv8 Fake Box Detection System
-   - Real-time inference from webcam
-   - Dataset preparation tools
-   - Training pipeline (Jupyter)
-
-2. **[RawWebsite](https://github.com/TeamRAW-SFIT/RawWebsite)**
-   - Team portfolio website
-   - Project documentation
-   - Team information & gallery
-
-### 📚 **Resources**
-
-- Code templates & standards
-- Technical documentation
-- Hardware designs
-- Software best practices
 
 ---
 
-## 👥 How to Join
+## 🏆 Competition Participation
 
-Team RAW is always looking for passionate engineers who want to explore:
+### National Level
+- **DD Robocon** (ABU Robocon India) - 2024, 2025, 2026
+- **e-Yantra Robotics Competition** (IIT Bombay) - 2025, 2026
+- **IIT Techfest Robotics Events** - 2025
 
-- 🤖 **Robotics & Automation**
-- 💻 **Embedded Systems & IoT**
-- 👁️ **Computer Vision & AI**
-- 🔧 **Mechanical Design & CAD**
-- ⚡ **Electronics & PCB Design**
+### Regional & State Level
+- Maharashtra State Robotics Championship
+- SPIT Technical Festival
+- Various inter-college competitions
 
-**Stay tuned** to our social media for recruitment drives!
-
----
-
-## 📈 GitHub Statistics
-
-<div align="center">
-
-![GitHub Organization Stats](https://img.shields.io/badge/Repositories-5+-blue?style=flat-square)
-![Members](https://img.shields.io/badge/Active%20Members-26-green?style=flat-square)
-![Projects](https://img.shields.io/badge/Active%20Projects-3+-orange?style=flat-square)
-
-</div>
+### Event Highlights
+- **Live TV Broadcasts:** Doordarshan National coverage
+- **YouTube Streams:** 10K+ live viewers
+- **Social Media:** 50K+ annual impressions
 
 ---
 
-## 🎓 Learning Resources
+## 🤝 Sponsorship & Partnerships
 
-- 📖 **Documentation** - Comprehensive guides in each repository
-- 🎥 **YouTube Channel** - Video tutorials & project showcases
-- 📝 **Blog** - Technical articles & insights
-- 🤝 **Mentorship** - Guidance from experienced engineers
+Team RAW partners with leading organizations to drive innovation:
+
+### 🎯 Sponsorship Benefits
+- ✅ National brand visibility (50K+ impressions)
+- ✅ Logo placement on robots, uniforms, and materials
+- ✅ Access to 200+ engineering talent for recruitment
+- ✅ Co-branded workshops and STEM initiatives
+- ✅ Measurable ROI with detailed analytics
+
+### 📊 Our Reach
+- **200+** engineering students
+- **15+** national competitions annually
+- **500+** students mentored through workshops
+- **10+** years of robotics excellence
+
+**Interested in partnering?**  
+📧 Email: teamraw@sfit.ac.in  
+📥 [Download Sponsorship Deck](#) (Coming Soon)
+
+---
+
+## 🎓 Student Recruitment
+
+### 🚀 Join Team RAW
+
+We recruit passionate students from:
+- **Mechanical Engineering**
+- **Electronics & Telecommunication**
+- **Computer Engineering**
+- **Information Technology**
+
+### Recruitment Process
+1. **Application** - Submit interest form (August-September)
+2. **Workshop** - Attend hands-on robotics session
+3. **Task** - Complete a mini project
+4. **Interview** - Technical & motivation assessment
+5. **Selection** - Join your department!
+
+### What We Look For
+- ✅ Passion for robotics and automation
+- ✅ Willingness to learn and experiment
+- ✅ Teamwork and collaboration skills
+- ✅ Problem-solving mindset
+
+**Updates:** Follow us on [Instagram](https://instagram.com/teamraw_sfit) for announcements
 
 ---
 
-## 📞 Connect With Us
+## 📚 Learning Resources
 
-<div align="center">
+### For Beginners
+- [Arduino Official Documentation](https://docs.arduino.cc)
+- [OpenCV Tutorials](https://docs.opencv.org/4.x/d9/df8/tutorial_root.html)
+- [ROS Tutorials](http://wiki.ros.org/ROS/Tutorials)
+- [Team RAW Workshop Materials](https://github.com/TeamRAW-SFIT/Workshops)
 
-| Platform | Handle | Link |
-|----------|--------|------|
-| **Instagram** | @teamraw.sfit | [Visit](https://instagram.com/teamraw.sfit) |
-| **LinkedIn** | Team RAW SFIT | [Visit](https://linkedin.com/company/teamraw-sfit) |
-| **YouTube** | @teamrawsfit | [Visit](https://youtube.com/@teamrawsfit) |
-| **Email** | teamrawofficial@gmail.com | [Contact](mailto:teamrawofficial@gmail.com) |
-| **Website** | teamraw-sfit.github.io | [Visit](https://teamraw-sfit.github.io) |
-
-</div>
+### Advanced Topics
+- PID Control Systems
+- Computer Vision with Deep Learning
+- Autonomous Navigation Algorithms
+- Mechanical Design Optimization
 
 ---
+
+## 📞 Contact Us
+
+### 📍 Visit Us
+**St. Francis Institute of Technology (SFIT)**  
+Room 027, Robotics Lab  
+Mt. Poinsur, Borivali West  
+Mumbai, Maharashtra 400103
+
+### 📧 Get in Touch
+- **General Inquiries:** teamraw@sfit.ac.in
+- **Sponsorship:** teamraw@sfit.ac.in
+- **Collaboration:** teamraw@sfit.ac.in
+
 
 ## 📜 License
 
-All projects are open-source and available under the **MIT License** unless otherwise specified.
+All repositories under TeamRAW-SFIT organization are open-source under the **MIT License**, unless stated otherwise. We encourage learning, collaboration, and innovation.
+
+---
+
+## 🌟 Contributors
+
+Team RAW is possible because of the dedication of:
+- 30+ active student members
+- Faculty mentors and advisors
+- Alumni network providing guidance
+- Industry sponsors and partners
+- St. Francis Institute of Technology
+
+**Special Thanks:**
+- Prof. Ramjee Yadav (Convener)
+- SFIT Management
+- All past and present team members
+
+---
+
+## 📈 GitHub Stats
+
+![Organization Stats](https://github-readme-stats.vercel.app/api?username=TeamRAW-SFIT&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TeamRAW-SFIT&layout=compact&theme=radical)
 
 ---
 
 <div align="center">
 
-### Made with 🔵 **Passion** & 🔴 **Precision** by Team RAW – SFIT
+### 🚀 Built with Passion, Practice, and Persistence
 
-**"Engineering Robots for Tomorrow"**
+**TEAM RAW – Robotics & Automation Wing**  
+**St. Francis Institute of Technology, Mumbai**
+
+![Profile Views](https://komarev.com/ghpvc/?username=TeamRAW-SFIT&label=Organization%20Views&color=E10600&style=flat)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=TeamRAW-SFIT&label=Organization%20Profile%20Views&color=0e75b6&style=flat)
+*Last Updated: January 2026*
+
+[![Star This Repo](https://img.shields.io/github/stars/TeamRAW-SFIT?style=social)](https://github.com/TeamRAW-SFIT)
+[![Follow Us](https://img.shields.io/github/followers/TeamRAW-SFIT?style=social)](https://github.com/TeamRAW-SFIT)
 
 </div>
-
+```
