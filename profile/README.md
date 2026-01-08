@@ -377,13 +377,6 @@ Team RAW is possible because of the dedication of:
 
 ---
 
-## 📈 GitHub Stats
-
-![Organization Stats](https://github-readme-stats.vercel.app/api?username=TeamRAW-SFIT&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TeamRAW-SFIT&layout=compact&theme=radical)
-
----
 
 <div align="center">
 
