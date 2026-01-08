@@ -71,20 +71,12 @@ We strive to:
 | Role | Name | Contact |
 |------|------|---------|
 | **Convener** | Ramjee Yadav | ramjee.yadav@sfit.ac.in |
-| **Captain** | Taksh Gandhi | taksh.gandhi@student.sfit.ac.in |
-| **Vice Captain** | Adnan Shaikh | adnan.shaikh@student.sfit.ac.in |
+| **CRC** | Siddhant Monde | siddhantj.monde23@st |udent.sfit.ac.im
+| **Co-CRC** | Dittino Thomas | dittinothomas05@student.sfit.ac.in |
 
-### Core Team (Executive Members)
 
-| Member | Role | LinkedIn | Email |
-|--------|------|----------|-------|
-| **Dittino Sequeira** | Mechanical Lead | [Profile](https://linkedin.com/in/dittino-sequeira) | dittino.sequeira@student.sfit.ac.in |
-| **Siddhant Khapekar** | Electronics Lead | [Profile](https://linkedin.com/in/siddhant-khapekar) | siddhant.khapekar@student.sfit.ac.in |
-| **Ronit Tiwari** | Software Lead | [Profile](https://linkedin.com/in/ronit-tiwari) | ronit.tiwari@student.sfit.ac.in |
-| **Amisha Kalwani** | AI/ML Lead | [Profile](https://linkedin.com/in/amisha-kalwani) | amisha.kalwani@student.sfit.ac.in |
-| **Nandini Shinde** | Design Lead | [Profile](https://linkedin.com/in/nandini-shinde) | nandini.shinde@student.sfit.ac.in |
 
-**Total Active Members:** 30+ across all departments
+**Total Active Members:** 20+ across all departments
 
 ---
 
