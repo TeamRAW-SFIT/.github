@@ -227,7 +227,7 @@ We strive to:
     ├── Buck/Boost Converters
     └── Current Monitoring Circuits
 
-
+---
 ### Software
 
 ├── Embedded Programming
