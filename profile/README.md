@@ -364,7 +364,7 @@ All repositories under TeamRAW-SFIT organization are open-source under the **MIT
 ## 🌟 Contributors
 
 Team RAW is possible because of the dedication of:
-- 30+ active student members
+- 20+ active student members
 - Faculty mentors and advisors
 - Alumni network providing guidance
 - Industry sponsors and partners
