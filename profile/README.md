@@ -71,7 +71,7 @@ We strive to:
 | Role | Name | Contact |
 |------|------|---------|
 | **Convener** | Ramjee Yadav | ramjee.yadav@sfit.ac.in |
-| **CRC** | Siddhant Monde | siddhantj.monde23@st |udent.sfit.ac.im
+| **CRC** | Siddhant Monde | siddhantj.monde23@student.sfit.ac.in |
 | **Co-CRC** | Dittino Thomas | dittinothomas05@student.sfit.ac.in |
 
 
